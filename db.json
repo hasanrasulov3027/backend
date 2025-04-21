@@ -6,13 +6,6 @@
       "email": "hadmin@gmail.com",
       "password": "root123",
       "role": "ADMIN"
-    },
-    {
-      "id": "2e14",
-      "username": "Bexruz",
-      "email": "bexruz2606@gmail.com",
-      "role": "USER",
-      "password": "root123"
     }
   ]
 }
